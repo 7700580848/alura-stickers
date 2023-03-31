@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class App {
 
 	public static void main(String[] args) throws Exception {
-	//	SpringApplication.run(AluraStickersApplication.class, args);
+	    // SpringApplication.run(AluraStickersApplication.class, args);
 		
 		// a variavel abaixo irá retornar um emoji estrela
         String emoji = "\u2b50";
