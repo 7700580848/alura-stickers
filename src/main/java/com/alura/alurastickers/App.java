@@ -15,10 +15,9 @@ public class App {
 		// a variavel abaixo irá retornar um emoji estrela
         String emoji = "\u2b50";
         
-
 		// Fazer uma conexão https e buscar os conteudos
-		//String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json";
-		//ExtratorDeConteudoDoIMDB extrator = new ExtratorDeConteudoDoIMDB();
+		// String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json";
+		// ExtratorDeConteudoDoIMDB extrator = new ExtratorDeConteudoDoIMDB();
 		
 		//String url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&start_date=2023-03-29&end_date=2023-03-29";
 		//ExtratorDeConteudoDaNasa extrator = new ExtratorDeConteudoDaNasa();
